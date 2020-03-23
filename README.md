@@ -3,3 +3,4 @@ This is a repository of my classwork from Financial Time Series class. I will up
 Contents:
 1. Regression models for time series
 2. Visualization and decomposation of time series
+3. AR model and ACF plot
